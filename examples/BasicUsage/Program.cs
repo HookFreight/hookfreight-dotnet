@@ -1,6 +1,6 @@
-using HookFreight;
+using Hookfreight;
 
-var client = new HookFreightClient(new HookFreightConfig
+var client = new HookfreightClient(new HookfreightConfig
 {
     ApiKey = Environment.GetEnvironmentVariable("HOOKFREIGHT_API_KEY")
 });

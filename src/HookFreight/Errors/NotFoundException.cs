@@ -1,6 +1,6 @@
 using System.Text.Json.Nodes;
 
-namespace HookFreight.Errors;
+namespace Hookfreight.Errors;
 
 public sealed class NotFoundException : APIException
 {

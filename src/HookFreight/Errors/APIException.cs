@@ -1,8 +1,8 @@
 using System.Text.Json.Nodes;
 
-namespace HookFreight.Errors;
+namespace Hookfreight.Errors;
 
-public class APIException : HookFreightException
+public class APIException : HookfreightException
 {
     public int Status { get; }
     public JsonNode? Body { get; }

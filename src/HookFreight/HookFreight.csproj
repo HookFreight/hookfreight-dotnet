@@ -4,13 +4,13 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
-    <PackageId>HookFreight</PackageId>
+    <PackageId>Hookfreight</PackageId>
     <Version>0.1.0</Version>
-    <Authors>HookFreight</Authors>
-    <Company>HookFreight</Company>
-    <Description>Official .NET SDK for HookFreight</Description>
+    <Authors>Hookfreight</Authors>
+    <Company>Hookfreight</Company>
+    <Description>Official .NET SDK for Hookfreight</Description>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
-    <RepositoryUrl>https://github.com/HookFreight/hookfreight-dotnet</RepositoryUrl>
+    <RepositoryUrl>https://github.com/Hookfreight/hookfreight-dotnet</RepositoryUrl>
     <PackageTags>hookfreight;webhook;sdk;api</PackageTags>
   </PropertyGroup>
 </Project>

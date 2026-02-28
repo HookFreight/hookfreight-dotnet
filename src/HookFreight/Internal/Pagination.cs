@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace HookFreight.Internal;
+namespace Hookfreight.Internal;
 
 internal static class Pagination
 {

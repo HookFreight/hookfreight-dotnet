@@ -1,7 +1,7 @@
 using System.Text.Json.Nodes;
-using HookFreight.Internal;
+using Hookfreight.Internal;
 
-namespace HookFreight.Services;
+namespace Hookfreight.Services;
 
 public sealed class AppsService
 {

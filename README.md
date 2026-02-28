@@ -1,19 +1,19 @@
 # hookfreight-dotnet
 
-Official .NET SDK for [HookFreight](https://hookfreight.com).
+Official .NET SDK for [Hookfreight](https://hookfreight.com).
 
 ## Installation
 
 ```bash
-dotnet add package HookFreight
+dotnet add package Hookfreight
 ```
 
 ## Quick Start
 
 ```csharp
-using HookFreight;
+using Hookfreight;
 
-var client = new HookFreightClient(new HookFreightConfig
+var client = new HookfreightClient(new HookfreightConfig
 {
     ApiKey = "hf_sk_..."
 });

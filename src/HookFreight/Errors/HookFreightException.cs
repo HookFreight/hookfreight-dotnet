@@ -1,13 +1,13 @@
-namespace HookFreight.Errors;
+namespace Hookfreight.Errors;
 
-public class HookFreightException : Exception
+public class HookfreightException : Exception
 {
-    public HookFreightException(string message)
+    public HookfreightException(string message)
         : base(message)
     {
     }
 
-    public HookFreightException(string message, Exception? inner)
+    public HookfreightException(string message, Exception? inner)
         : base(message, inner)
     {
     }

@@ -2,9 +2,9 @@ using System.Net.Http.Headers;
 using System.Text;
 using System.Text.Json;
 using System.Text.Json.Nodes;
-using HookFreight.Errors;
+using Hookfreight.Errors;
 
-namespace HookFreight.Internal;
+namespace Hookfreight.Internal;
 
 internal sealed class HFHttpClient
 {
@@ -13,7 +13,7 @@ internal sealed class HFHttpClient
     private readonly string _baseUrl;
     private readonly string? _apiKey;
 
-    public HFHttpClient(HookFreightConfig config)
+    public HFHttpClient(HookfreightConfig config)
     {
         _apiKey = config.ApiKey;
         _baseUrl = config.BaseUrl.TrimEnd('/');

@@ -1,9 +1,9 @@
 using System;
 using System.Net.Http;
 
-namespace HookFreight;
+namespace Hookfreight;
 
-public sealed class HookFreightConfig
+public sealed class HookfreightConfig
 {
     public string? ApiKey { get; init; }
     public string BaseUrl { get; init; } = "https://api.hookfreight.com/v1";
