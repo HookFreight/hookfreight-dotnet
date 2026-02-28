@@ -1,6 +1,6 @@
 # hookfreight-dotnet
 
-Official .NET SDK for [Hookfreight](https://hookfreight.com).
+Official .NET SDK for [Hookfreight](https://docs.hookfreight.com).
 
 ## Installation
 
