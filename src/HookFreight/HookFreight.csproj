@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <PackageId>HookFreight</PackageId>
+    <Version>0.1.0</Version>
+    <Authors>HookFreight</Authors>
+    <Company>HookFreight</Company>
+    <Description>Official .NET SDK for HookFreight</Description>
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/HookFreight/hookfreight-dotnet</RepositoryUrl>
+    <PackageTags>hookfreight;webhook;sdk;api</PackageTags>
+  </PropertyGroup>
+</Project>
